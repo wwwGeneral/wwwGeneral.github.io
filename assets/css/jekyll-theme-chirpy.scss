@@ -1,10 +1,6 @@
 ---
 ---
 
-@import 'main
-{%- if jekyll.environment == 'production' -%}
-  .bundle
-{%- endif -%}
-';
+@import '_sass/dist/bootstrap.css';
 
 /* append your custom style below */
