@@ -514,6 +514,9 @@ html {
     display: inline-flex;
   }
   
+  p > .joke {
+  display: block;
+}
   .shimmer {
     overflow: hidden;
     position: relative;

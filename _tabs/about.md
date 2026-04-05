@@ -9,19 +9,21 @@ order: 4
 ```plaintext
 ┌──(wwwGeneral㉿kali)-[~]
 └─$ whoami
-Following my computer science studies, I went on to study cybersecurity at an engineering school.
+Passionate about hacking and cybersecurity, I started my professional journey as a Pentester in 2023 
+after I graduated as head of the class with an engineering degree specialising in cybersecurity.
 
-At the beginning of my M1, I discovered pentesting through TryHackMe and I loved it.
+I love to learn new things and especially in how to break Windows and Active Directory.
 
-Then I did some CTF and kept learning more and more about pentesting.
+As I love to learn, I also love to teach and since 2023 
+I teach Active Directory pentesting at my former engineering school.
 
-At some point, I took a course on pentesting in Active Directory environment and I fell in love with AD pentesting that day.
+I'm currently working for Integrity360 France (formerly known as Holiseum) as a Pentester and I work 
+primarily in the industrial sector.
 
-I did some internships to strengthen my knowledge in this field.
+I have done more than 25 AD penetration test (as of 2026) all around Europe 
+and much more other type audits (web, configuration, Wi-Fi, workstation, ...).
 
-I finally graduated as class valedictorian with an engineering degree specialising in cybersecurity! 
-
-In november 2023, I started a full time job as Pentester at XMCO.
+My daily mantra is : Travel > Get Domain Admin access > Eat > Report > Repeat
 ```
 
 ## About me:
@@ -33,25 +35,31 @@ In november 2023, I started a full time job as Pentester at XMCO.
 ## Contact me:
 If you want to have technical or professionnal discussion, feel free to add me on discord: **wwwGeneral#0257** or on Twitter [@wwwGeneralFR](https://twitter.com/wwwGeneralFR)
 
-## Goals to complete on 2023:
+## Goals completed on 2023:
 - 👾 Let's start my journey in offsec world:
     - [X] HTB Offshore Prolab
     - [X] Becoming a professional pentester
     - [X] Teaching Active Directory pentesting
 
-## Goals to complete on 2024:
+## Goals completed on 2024:
 - 👾 Trying to get certified:
-    - [ ] CRTO I
-    - [ ] OSCP
-    - [ ] Zephyr HTB Pro Lab
-    - [ ] RastaLabs HTB Pro Lab
+    - [X] Zephyr HTB Pro Lab
+
+## Goals completed on 2025:
+- 👾 Trying to get certified:
+    - [X] Alchemy HTB Pro Lab
+
+## Goals completed on 2026:
+- 👾 Trying to get certified:
+    - [X] Alchemy HTB Pro Lab
+    - [X] PASSI - Test d'intrusion
+    - [ ] CRTO
 
 ## Futur Goals: 
 - 👽 Get even more certifications:
     - [ ] CRTO II
     - [ ] OSEP
-    - [ ] CRTP
-    - [ ] CRTE
+
    
 - 💥 Finish more Prolabs from HackTheBox:
     - [ ] RastaLabs
@@ -64,10 +72,11 @@ If you want to have technical or professionnal discussion, feel free to add me o
  [![wwwGeneral](https://tryhackme-badges.s3.amazonaws.com/wwwGeneral.png)](https://tryhackme.com/p/wwwGeneral){: .normal }
 
 ## Scores:
-![stats](https://github-readme-stats.vercel.app/api?username=wwwGeneral){: .normal }
+![stats](https://github-stats-extended.vercel.app/api?username=wwwGeneral&include_all_commits=true&theme=monokai){: .normal }
 
 ## Joke of the day:
-![Jokes Card](https://readme-jokes.vercel.app/api){: .normal }
+<img class="joke" src="https://readme-jokes.vercel.app/api?theme=monokai">
+
 <!---
 wwwGeneral/wwwGeneral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
