@@ -75,7 +75,7 @@ If you want to have technical or professionnal discussion, feel free to add me o
 ![stats](https://github-stats-extended.vercel.app/api?username=wwwGeneral&include_all_commits=true&theme=monokai){: .normal }
 
 ## Joke of the day:
-<img class="joke" src="https://readme-jokes.vercel.app/api?theme=monokai">
+<img class="joke" alt="Joke of the Day" src="https://readme-jokes.vercel.app/api?theme=monokai">
 
 <!---
 wwwGeneral/wwwGeneral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
